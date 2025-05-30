@@ -1,0 +1,100 @@
+{
+  "app_name": "إيفنتفاي",
+  "general": {
+    "continue": "متابعة",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "view": "عرض",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "see_all": "عرض الكل",
+    "view_all": "مشاهدة الكل",
+    "loading": "جاري التحميل...",
+    "success": "تم بنجاح",
+    "error": "خطأ",
+    "warning": "تحذير",
+    "info": "معلومات",
+    "yes": "نعم",
+    "no": "لا",
+    "ok": "موافق",
+    "done": "تم",
+    "seconds": "ثانية"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "categories": "الفئات",
+    "cart": "السلة",
+    "profile": "الملف الشخصي"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "login_description": "أدخل رقم هاتفك لتلقي رمز التحقق",
+    "create_account": "إنشاء حساب",
+    "register_user": "مستخدم عادي",
+    "register_provider": "مزود خدمة",
+    "select_account_type": "اختر نوع الحساب",
+    "phone_number": "رقم الهاتف",
+    "full_name": "الاسم الكامل",
+    "verification_code": "رمز التحقق",
+    "enter_verification_code": "أدخل رمز التحقق المكون من 6 أرقام المرسل إلى",
+    "verification_success": "تم التحقق بنجاح",
+    "verification_sent": "تم إرسال رمز التحقق",
+    "resend_code": "إعادة إرسال الرمز",
+    "resend_code_in": "إعادة إرسال الرمز خلال",
+    "already_have_account": "لديك حساب بالفعل؟",
+    "dont_have_account": "ليس لديك حساب؟"
+  },
+  "home": {
+    "welcome_message": "ابحث عن الخدمات المثالية لمناسبتك",
+    "featured_services": "الخدمات المميزة",
+    "popular_categories": "الفئات الشائعة",
+    "recent_orders": "الطلبات الأخيرة",
+    "no_recent_orders": "ليس لديك أي طلبات حديثة",
+    "browse_services": "تصفح الخدمات"
+  },
+  "categories": {
+    "title": "فئات الخدمات",
+    "description": "ابحث عن مزود الخدمة المثالي لمناسبتك",
+    "search": "البحث عن خدمات",
+    "photography": "التصوير",
+    "decoration": "الديكور",
+    "catering": "تقديم الطعام",
+    "beverages": "المشروبات",
+    "sweets": "الحلويات",
+    "event_planning": "تخطيط المناسبات"
+  },
+  "services": {
+    "wedding_photography": "تصوير حفلات الزفاف",
+    "birthday_decoration": "ديكور أعياد الميلاد",
+    "corporate_catering": "تقديم طعام للشركات",
+    "wedding_planning": "تخطيط حفلات الزفاف",
+    "custom_cake": "كيك مخصص"
+  },
+  "cart": {
+    "empty_cart": "سلة التسوق فارغة",
+    "empty_cart_description": "أضف خدمات إلى سلة التسوق لتراها هنا",
+    "browse_services": "تصفح الخدمات"
+  },
+  "profile": {
+    "title": "ملفي الشخصي",
+    "service_provider": "مزود خدمة",
+    "regular_user": "مستخدم عادي",
+    "language": "اللغة",
+    "language_english": "الإنجليزية",
+    "language_arabic": "العربية",
+    "app_version": "إصدار التطبيق",
+    "logout": "تسجيل الخروج",
+    "logout_confirmation_title": "تأكيد تسجيل الخروج",
+    "logout_confirmation_message": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+  },
+  "errors": {
+    "required_field": "هذا الحقل مطلوب",
+    "invalid_phone": "الرجاء إدخال رقم هاتف صالح",
+    "invalid_code": "الرجاء إدخال رمز صالح مكون من 6 أرقام",
+    "verification_failed": "فشل التحقق. الرجاء المحاولة مرة أخرى.",
+    "general": "حدث خطأ ما. الرجاء المحاولة مرة أخرى."
+  }
+}
